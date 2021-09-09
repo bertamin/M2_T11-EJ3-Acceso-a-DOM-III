@@ -1,0 +1,1 @@
+Este ejercicio es una variante del anterior. Nos seguirá pidiendo cadenas hasta que pongamos la cadena fin. En ese momento parará y nos mostrará lo introducido separado por espacios.
